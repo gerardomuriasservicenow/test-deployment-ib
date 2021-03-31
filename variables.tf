@@ -17,16 +17,3 @@ variable "bbdd_admin_pwd"{
   type = string
   default = "H@Sh1CoR3!"
 }
-
-variable "subsId" {
-    
-}
-
-variable "clientId" {
-}
-
-variable "clientSecret" {
-}
-
-variable "tenantId" {
-}
